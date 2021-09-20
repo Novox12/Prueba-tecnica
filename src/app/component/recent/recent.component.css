@@ -1,0 +1,40 @@
+.main-recent {
+    overflow: hidden;
+}
+
+.content-item {
+    width: 120px;
+    height: 150px;
+    margin-left: 20px;
+    float: left;
+    position: static;
+    top: 100px;
+}
+
+.cente {
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+
+.container-text {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.content-item:hover {
+    width: 140px;
+    height: 170px;
+    cursor: pointer;
+}
+
+img {
+    height: 80%;
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
